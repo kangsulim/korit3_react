@@ -1,0 +1,48 @@
+/* 1. 박스 모델 리셋 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* 2. 루트 변수: 컬러 팔레트와 spacing */
+:root {
+  /* 색상 */
+  --color-bg: #fdfdfd;
+  --color-primary: #003366;
+  --color-secondary: #006699;
+  --color-text: #333333;
+  --color-muted: #666666;
+
+  /* 타이포그래피 */
+  --font-base: 'Noto Sans KR', sans-serif;
+  --font-heading: 'Noto Serif KR', serif;
+
+  /* 공간 단위 */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+}
+
+/* 3. body 기본 설정 */
+html, body, #root {
+  height: 100%;
+}
+body {
+  font-family: var(--font-base);
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 4. 링크 기본 스타일 */
+a {
+  color: var(--color-secondary);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
