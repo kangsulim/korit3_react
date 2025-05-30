@@ -50,7 +50,6 @@ export default function AddCar() {
 
   return(
     <>
-      <br />
       <Button onClick={handleClickOpen} variant="outlined">New Car</Button>
       <br />
       <br />
