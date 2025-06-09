@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="57b1efcc-2bb1-4b8a-a88a-07b553103fa7" name="Changes" comment="" />
+    <list default="true" id="57b1efcc-2bb1-4b8a-a88a-07b553103fa7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/components/TodoForm.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/components/TodoItem.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/components/TodoList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/hooks/useLocalStorage.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/i18n/de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/i18n/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/i18n/i18n.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/main.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/styles/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/types/Todo.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/src/vite-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/tsconfig.node.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/advanced-todo-add/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/package-lock.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +42,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2y1KCm4YDnjWGx7KK5YsdHeJ2U9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +55,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/rkdtnfla1/korit_3_react"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/rkdtnfla1/cardatabase/cardatabase4"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
